@@ -1,0 +1,6 @@
+{
+  "Name": "Lab1",
+  "ProjectType": "Process",
+  "Description": "Simple Workflow for Lab1\r\n",
+  "MainFile": "Main.xaml"
+}
